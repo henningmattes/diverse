@@ -1,21 +1,14 @@
-MIT License
+License Information for [Your Project Name]
 
-Copyright (c) 2024 henningmattes
+This project is licensed under the MIT License as found at the following link:
+[Link to the MIT License: https://opensource.org/licenses/MIT]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Additional Terms:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Attribution Requirement**:
+   Any copy or substantial use of this code must prominently acknowledge the original author [Your Name]. This acknowledgment must appear in the documentation or in the software itself.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Usage Conditions**:
+   The code may be modified or extended, but it must always refer to the original author, and may not be published under a different name without acknowledging the original author.
+
+Note: The above additional terms are intended as a supplement to the original MIT License and are meant to ensure proper attribution to the author. All other provisions of the MIT License remain in full effect.
